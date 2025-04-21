@@ -25,7 +25,7 @@ Tässä sivussa on käytetty ainakin seuraavia GitHub Flavored Markdown -ominais
 ## 📸 Kuvitus
 
 ![Esimerkkikuva](image.png)
-)
+
 
 
 ---
