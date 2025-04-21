@@ -40,3 +40,4 @@ function tervehdys(nimi) {
 }
 
 tervehdys("lukija");
+
