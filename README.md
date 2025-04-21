@@ -24,7 +24,8 @@ Tässä sivussa on käytetty ainakin seuraavia GitHub Flavored Markdown -ominais
 
 ## 📸 Kuvitus
 
-![Esimerkkikuva](https://via.placeholder.com/400x200.png?text=Markdown+demo)
+![Esimerkkikuva](image.png)
+)
 
 
 ---
