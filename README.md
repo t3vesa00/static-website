@@ -32,17 +32,12 @@ Tässä sivussa on käytetty ainakin seuraavia GitHub Flavored Markdown -ominais
 
 ## 📂 Esimerkkikoodi
 
-```javascript
-function tervehdys(nimi) {
-  console.log(`Hei, ${nimi}!`);
-}
-tervehdys("lukija");
-
-
+Tässä on esimerkki koodista, joka tulostaa tervehdyksen:
 
 ```javascript
 function tervehdys(nimi) {
   console.log(`Hei, ${nimi}!`);
 }
+
 tervehdys("lukija");
 
