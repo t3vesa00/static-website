@@ -37,3 +37,4 @@ function tervehdys(nimi) {
   console.log(`Hei, ${nimi}!`);
 }
 tervehdys("lukija");
+
