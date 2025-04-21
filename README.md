@@ -36,7 +36,7 @@ Tässä on esimerkki koodista, joka tulostaa tervehdyksen:
 
 ```javascript
 function tervehdys(nimi) {
-  console.log(`Hei, ${nimi}!`);
+    console.log(`Hei, ${nimi}!`);
 }
 
 tervehdys("lukija");
