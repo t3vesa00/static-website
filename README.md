@@ -38,3 +38,11 @@ function tervehdys(nimi) {
 }
 tervehdys("lukija");
 
+
+
+```javascript
+function tervehdys(nimi) {
+  console.log(`Hei, ${nimi}!`);
+}
+tervehdys("lukija");
+
